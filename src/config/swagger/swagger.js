@@ -2,8 +2,8 @@ import swaggerAutogen from 'swagger-autogen'
 
 const doc = {
   info: {
-    title: 'My API',
-    description: 'Description'
+    title: 'FP_Forum_',
+    description: 'API Sistema de blogging'
   },
   host: 'localhost:3000'
 }
